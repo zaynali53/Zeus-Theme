@@ -8,7 +8,7 @@ A Dark Theme for PHP Storm by [@zaynali53](https://twitter.com/zaynali53)
 ![css](https://cloud.githubusercontent.com/assets/8646770/6347016/501e9154-bc36-11e4-8b0f-1c259d713410.png)
 
 #### JS View
-![js](https://cloud.githubusercontent.com/assets/8646770/6347018/5175a902-bc36-11e4-9a79-2b7b25878531.png)
+![js](https://cloud.githubusercontent.com/assets/8646770/6547141/26401b04-c5f1-11e4-8c60-1220f870776f.PNG)
 
 #### PHP View
 ![php](https://cloud.githubusercontent.com/assets/8646770/6347020/52ddb9d8-bc36-11e4-9609-43f2de5ad46e.png)
