@@ -1,5 +1,5 @@
 # Zeus-PHPStorm-Theme
-A Dark Theme for PHP Storm by [@zaynali53](https://twitter.com/zaynali53)
+Dark UI Theme by [@zaynali53](https://twitter.com/zaynali53)
 
 #### HTML View
 ![html](https://cloud.githubusercontent.com/assets/8646770/6347012/4cfe534c-bc36-11e4-8bb9-d784a3f22585.png)
