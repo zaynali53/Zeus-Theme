@@ -5,7 +5,7 @@ Dark UI Theme by [@zaynali53](https://twitter.com/zaynali53)
 
 #### <a href="https://github.com/zaynali53/Zeus-Theme/blob/master/Zeus-Sublime-Text.tmTheme" target="_blank">For Sublime Text</a>
 
-#### <a href="http://eclipsecolorthemes.org/?view=theme&id=35350" target="_blank">For Eclipse IDE</a>
+#### <a href="http://eclipsecolorthemes.org/?view=theme&id=35350" target="_blank">For Eclipse</a>
 
 #### HTML View
 ![html](https://cloud.githubusercontent.com/assets/8646770/6347012/4cfe534c-bc36-11e4-8bb9-d784a3f22585.png)
