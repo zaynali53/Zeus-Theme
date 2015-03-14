@@ -1,4 +1,4 @@
-# Zeus-PHPStorm-Theme
+# Zeus-Theme
 Dark UI Theme by [@zaynali53](https://twitter.com/zaynali53)
 
 #### HTML View
