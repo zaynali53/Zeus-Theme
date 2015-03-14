@@ -1,6 +1,12 @@
 # Zeus-Theme
 Dark UI Theme by [@zaynali53](https://twitter.com/zaynali53)
 
+#### <a href="http://phpstorm-themes.com/theme/zeus" target="_blank">For PHPStorm</a>
+
+#### <a href="https://github.com/zaynali53/Zeus-Theme/blob/master/Zeus-Sublime-Text.tmTheme" target="_blank">For Sublime Text</a>
+
+#### <a href="http://eclipsecolorthemes.org/?view=theme&id=35350" target="_blank">For Eclipse IDE</a>
+
 #### HTML View
 ![html](https://cloud.githubusercontent.com/assets/8646770/6347012/4cfe534c-bc36-11e4-8bb9-d784a3f22585.png)
 
@@ -15,6 +21,9 @@ Dark UI Theme by [@zaynali53](https://twitter.com/zaynali53)
 
 #### JSON View
 ![json](https://cloud.githubusercontent.com/assets/8646770/6347111/28e787fc-bc37-11e4-9a44-b2d277d89e4b.PNG)
+
+#### Java View
+![eclipse_java](https://cloud.githubusercontent.com/assets/8646770/6651745/cc8b000a-ca74-11e4-8415-b0e98ba3beb7.png)
 
 #License
 
