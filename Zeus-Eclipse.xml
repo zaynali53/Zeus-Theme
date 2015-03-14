@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="35350" name="Zeus" modified="2015-03-14 02:29:12" author="Zayn Ali" website="https://github.com/zaynali53/Zeus-Theme">
+    <searchResultIndication color="#161A1F" />
+    <filteredSearchResultIndication color="#161A1F" />
+    <occurrenceIndication color="#161A1F" />
+    <writeOccurrenceIndication color="#161A1F" />
+    <findScope color="#2A2A2A" />
+    <deletionIndication color="#F6624A" />
+    <sourceHoverBackground color="#2A2A2A" />
+    <singleLineComment color="#505C63" italic="false" />
+    <multiLineComment color="#505C63" italic="false" />
+    <commentTaskTag color="#505C63" italic="false" />
+    <javadoc color="#505C63" italic="false" />
+    <javadocLink color="#798891" italic="false" />
+    <javadocTag color="#798891" italic="false" />
+    <javadocKeyword color="#798891" italic="false" />
+    <class color="#F6624A" bold="false" underline="false" strikethrough="false" />
+    <interface color="#F6624A" />
+    <method color="#F6624A" />
+    <methodDeclaration color="#F6624A" />
+    <bracket color="#A7DBD8" />
+    <number color="#BDC3C7" />
+    <string color="#F3AC9A" />
+    <operator color="#A7DBD8" />
+    <keyword color="#A7B3C2" bold="false" />
+    <annotation color="#F8F8F2" />
+    <staticMethod color="#F6624A" />
+    <localVariable color="#F8F8F2" />
+    <localVariableDeclaration color="#A7B3C2" />
+    <field color="#F8F8F2" />
+    <staticField color="#F8F8F2" />
+    <staticFinalField color="#D0D0D0" />
+    <deprecatedMember color="#F6624A" underline="false" strikethrough="true" />
+    <enum color="#A7B3C2" />
+    <inheritedMethod color="#D0D0D0" />
+    <abstractMethod color="#F6624A" />
+    <parameterVariable color="#D0D0D0" />
+    <typeArgument color="#F6624A" />
+    <typeParameter color="#F6624A" />
+    <constant color="#F6624A" />
+    <background color="#2E3336" />
+    <currentLine color="#2A2A2A" />
+    <foreground color="#F8F8F2" />
+    <lineNumber color="#D0D0D0" />
+    <selectionBackground color="#161A1F" />
+    <selectionForeground color="#D0D0D0" />
+</colorTheme>
