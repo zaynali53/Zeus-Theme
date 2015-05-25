@@ -25,7 +25,7 @@ Dark UI Theme by [@zaynali53](https://twitter.com/zaynali53)
 #### JSON View
 ![json](https://cloud.githubusercontent.com/assets/8646770/6347111/28e787fc-bc37-11e4-9a44-b2d277d89e4b.PNG)
 
-#### Java View
+#### Java View (Eclipse IDE)
 ![eclipse_java](https://cloud.githubusercontent.com/assets/8646770/6651745/cc8b000a-ca74-11e4-8415-b0e98ba3beb7.png)
 
 #License
