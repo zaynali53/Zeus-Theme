@@ -16,8 +16,11 @@ Dark UI Theme by [@zaynali53](https://twitter.com/zaynali53)
 #### JS View
 ![js](https://cloud.githubusercontent.com/assets/8646770/6547141/26401b04-c5f1-11e4-8c60-1220f870776f.PNG)
 
-#### JSX - ES6 View
+#### JSX - ES6 View (PHPStorm View)
 ![jsx](https://cloud.githubusercontent.com/assets/8646770/6684831/a5beea10-ccb6-11e4-80f9-b28f5b67ede8.PNG)
+
+#### JSX - ES6 View (Sublime Text View)
+![es6-jsx-sublime-view](https://cloud.githubusercontent.com/assets/8646770/7951340/bf03bf00-09bf-11e5-8f85-24ad5ec05b2c.PNG)
 
 #### PHP View
 ![php](https://cloud.githubusercontent.com/assets/8646770/6347020/52ddb9d8-bc36-11e4-9609-43f2de5ad46e.png)
