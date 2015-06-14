@@ -3,7 +3,7 @@ Dark UI Theme by [@zaynali53](https://twitter.com/zaynali53)
 
 #### <a href="http://phpstorm-themes.com/theme/zeus" target="_blank">For PHPStorm / WebStorm</a>
 
-#### <a href="https://github.com/zaynali53/Zeus-Theme/blob/master/Zeus-Sublime-Text.tmTheme" target="_blank">For Sublime Text</a>
+#### <a href="https://packagecontrol.io/packages/Zeus" target="_blank">For Sublime Text</a>
 
 #### <a href="http://eclipsecolorthemes.org/?view=theme&id=35350" target="_blank">For Eclipse</a>
 
