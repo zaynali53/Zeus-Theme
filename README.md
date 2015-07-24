@@ -9,6 +9,8 @@ Dark UI Theme by [@zaynali53](https://twitter.com/zaynali53)
 
 #### <a href="http://eclipsecolorthemes.org/?view=theme&id=35350" target="_blank">For Eclipse</a>
 
+#### <a href="https://github.com/zaynali53/MyTerminal" target="_blank">For XFCE Terminal and Konsole</a>
+
 #### HTML View
 ![html](https://cloud.githubusercontent.com/assets/8646770/6347012/4cfe534c-bc36-11e4-8bb9-d784a3f22585.png)
 
