@@ -17,18 +17,28 @@
                 <string>#F8F8F2</string>
                 <key>invisibles</key>
                 <string>#3B3A32</string>
+
                 <key>lineHighlight</key>
-                <string>#161A1F</string>
+                <string>#24292C</string>
                 <key>selection</key>
-                <string>#161A1F</string>
+                <string>#3d4347</string>
                 <key>findHighlight</key>
-                <string>#161A1F</string>
+                <string>#3d4347</string>
                 <key>findHighlightForeground</key>
                 <string>#ffffff</string>
                 <key>selectionBorder</key>
-                <string>#222218</string>
+                <string>#3d4347</string>
+
+                <key>guide</key>
+                <string>#424242</string>
                 <key>activeGuide</key>
-                <string>#9D550FB0</string>
+                <string>#424242</string>
+
+                <key>gutterForeground</key>
+                <string>#535353</string>
+
+                <key>shadow</key>
+                <string>#2E3336</string>
 
                 <key>bracketsForeground</key>
                 <string>#F8F8F2A5</string>
@@ -64,7 +74,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#505C63</string>
+                <string>#677777</string>
             </dict>
         </dict>
         <dict>
