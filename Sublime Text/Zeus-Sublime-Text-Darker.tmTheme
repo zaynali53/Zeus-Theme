@@ -5,14 +5,14 @@
     <key>author</key>
     <string>Zayn Ali ( https://twitter.com/zaynali53 )</string>
     <key>name</key>
-    <string>Zeus</string>
+    <string>Zeus - Darker</string>
     <key>settings</key>
     <array>
         <dict>
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#2E3336</string>
+                <string>#212121</string>
                 <key>caret</key>
                 <string>#D0D0D0</string>
                 <key>foreground</key>
@@ -21,26 +21,26 @@
                 <string>#3B3A32</string>
 
                 <key>lineHighlight</key>
-                <string>#24292C</string>
+                <string>#00000030</string>
                 <key>selection</key>
-                <string>#3d4347</string>
+                <string>#61616140</string>
                 <key>findHighlight</key>
-                <string>#3d4347</string>
+                <string>#61616140</string>
                 <key>findHighlightForeground</key>
                 <string>#ffffff</string>
                 <key>selectionBorder</key>
-                <string>#3d4347</string>
+                <string>#61616140</string>
 
                 <key>guide</key>
-                <string>#424242</string>
+                <string>#42424260</string>
                 <key>activeGuide</key>
-                <string>#424242</string>
+                <string>#42424260</string>
 
                 <key>gutterForeground</key>
-                <string>#535353</string>
+                <string>#424242</string>
 
                 <key>shadow</key>
-                <string>#2E3336</string>
+                <string>#00000010</string>
 
                 <key>bracketsForeground</key>
                 <string>#F8F8F2A5</string>
@@ -76,7 +76,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#677777</string>
+                <string>#444444</string>
             </dict>
         </dict>
         <dict>
