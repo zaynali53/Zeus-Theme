@@ -11,6 +11,14 @@ Dark UI Theme by [@zaynali53](https://twitter.com/zaynali53)
 
 #### <a href="https://github.com/zaynali53/MyTerminal" target="_blank">For XFCE Terminal and Konsole</a>
 
+<br>
+
+#### Sublime Text Variations
+![Sublime-Variations](Zeus-Sublime-Variations.png)
+
+<hr>
+<br>
+
 #### HTML View
 ![html](https://cloud.githubusercontent.com/assets/8646770/6347012/4cfe534c-bc36-11e4-8bb9-d784a3f22585.png)
 
