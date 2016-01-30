@@ -5,7 +5,7 @@ Dark UI Theme by [@zaynali53](https://twitter.com/zaynali53)
 
 #### <a href="https://packagecontrol.io/packages/Zeus" target="_blank">Sublime Text</a>
 
-#### <a href="https://github.com/zaynali53/Zeus-Theme/tree/master/Atom" target="_blank">Atom</a>
+#### <a href="https://atom.io/themes/atom-zeus-syntax" target="_blank">Atom</a>
 
 #### <a href="http://eclipsecolorthemes.org/?view=theme&id=35350" target="_blank">Eclipse</a>
 
