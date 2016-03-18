@@ -9,6 +9,8 @@ Dark UI Theme by [@zaynali53](https://twitter.com/zaynali53)
 
 #### <a href="http://eclipsecolorthemes.org/?view=theme&id=35350" target="_blank">Eclipse</a>
 
+#### <a href="https://sourceforge.net/projects/cudatext/files/addons/themes/theme.Zeus.zip/download" target="_blank">CudaText</a>
+
 #### <a href="https://github.com/zaynali53/MyTerminal" target="_blank">XFCE Terminal and Konsole</a>
 
 <br>
@@ -22,8 +24,13 @@ Dark UI Theme by [@zaynali53](https://twitter.com/zaynali53)
 
 <hr>
 
-#### CudaText
+#### CudaText View
 ![cudatext](https://cloud.githubusercontent.com/assets/8646770/13891943/0cc8a18e-ed76-11e5-9f5a-afc2fd733fea.PNG)
+
+<hr>
+
+#### Eclipse IDE View
+![eclipse_java](https://cloud.githubusercontent.com/assets/8646770/6651745/cc8b000a-ca74-11e4-8415-b0e98ba3beb7.png)
 
 <br>
 
@@ -47,9 +54,6 @@ Dark UI Theme by [@zaynali53](https://twitter.com/zaynali53)
 
 #### JSON View
 ![json](https://cloud.githubusercontent.com/assets/8646770/6347111/28e787fc-bc37-11e4-9a44-b2d277d89e4b.PNG)
-
-#### Java View (Eclipse IDE)
-![eclipse_java](https://cloud.githubusercontent.com/assets/8646770/6651745/cc8b000a-ca74-11e4-8415-b0e98ba3beb7.png)
 
 #License
 
