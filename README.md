@@ -25,7 +25,7 @@ Dark UI Theme by [@zaynali53](https://twitter.com/zaynali53)
 <hr>
 
 #### CudaText View
-![cudatext](https://cloud.githubusercontent.com/assets/8646770/13891943/0cc8a18e-ed76-11e5-9f5a-afc2fd733fea.PNG)
+![cudatext](https://cloud.githubusercontent.com/assets/8646770/13918957/5ab08d22-ef8c-11e5-8844-79627351a01a.PNG)
 
 <hr>
 
