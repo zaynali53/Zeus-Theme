@@ -522,6 +522,17 @@
                 <string>#A7B3C2</string>
             </dict>
         </dict>
+        <dict>
+            <key>name</key>
+            <string>HTML: Key Value Separator</string>
+            <key>scope</key>
+            <string>punctuation.separator.key-value.html</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#A7DBD8</string>
+            </dict>
+        </dict>
 
         <!--
         ======================================================================
