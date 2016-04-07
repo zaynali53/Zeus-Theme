@@ -941,7 +941,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#75A9A6</string>
+                <string>#848484</string>
             </dict>
         </dict>
         <dict>
@@ -1025,7 +1025,7 @@
             <key>name</key>
             <string>JS: Function Call</string>
             <key>scope</key>
-            <string>entity.name.function.js</string>
+            <string>entity.name.function.js, variable.function.js</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -1084,7 +1084,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#787878</string>
+                <string>#75A9A6</string>
             </dict>
         </dict>
         <dict>
@@ -1102,7 +1102,7 @@
             <key>name</key>
             <string>JS: ()</string>
             <key>scope</key>
-            <string>punctuation.definition.parameters.begin.js, punctuation.definition.parameters.end.js, meta.group.braces.round, meta.brace.round.js</string>
+            <string>punctuation.definition.parameters.begin.js, punctuation.definition.parameters.end.js, meta.group.braces.round, meta.brace.round.js, meta.brace.round.begin.js, meta.brace.round.end.js</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -1124,7 +1124,7 @@
             <key>name</key>
             <string>JS: {}</string>
             <key>scope</key>
-            <string>meta.brace.curly.js</string>
+            <string>meta.brace.curly.js, meta.group.braces.curly.js, punctuation.definition.class.body.begin.js, punctuation.definition.class.body.end.js, punctuation.section.embedded.begin.jsx, punctuation.section.embedded.end.jsx</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -1135,7 +1135,7 @@
             <key>name</key>
             <string>JSX: Tag Inner Content</string>
             <key>scope</key>
-            <string>meta.jsx.children.js, tag.open.js, tag.close.js</string>
+            <string>meta.jsx.js, meta.jsx.children.js, tag.open.js, tag.close.js</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
