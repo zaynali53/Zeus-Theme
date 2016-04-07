@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -543,13 +543,35 @@
 
         <dict>
             <key>name</key>
-            <string>XML: Tag</string>
+            <string>XML: Default Color</string>
             <key>scope</key>
-            <string>entity.name.tag.xml</string>
+            <string>meta.tag.xml</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#F8F8F2</string>
+                <string>#A7DBD8</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>XML: Tag Braces</string>
+            <key>scope</key>
+            <string>punctuation.definition.tag.begin.xml, punctuation.definition.tag.end.xml, meta.tag.preprocessor.xml</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#A7DBD8</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>XML: Tag</string>
+            <key>scope</key>
+            <string>entity.name.tag.xml, keyword.doctype.xml</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#F6624A</string>
             </dict>
         </dict>
         <dict>
@@ -560,7 +582,18 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#A7DBD8</string>
+                <string>#A7B3C2</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>XML: SGML Doctype</string>
+            <key>scope</key>
+            <string>meta.tag.sgml.doctype.xml</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#D0D0D0</string>
             </dict>
         </dict>
 
