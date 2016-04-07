@@ -478,17 +478,7 @@
                                         HTML
         ======================================================================
         -->
-        <dict>
-            <key>name</key>
-            <string>HTML: DOCTYPE Braces</string>
-            <key>scope</key>
-            <string>punctuation.definition.tag.html</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#828282</string>
-            </dict>
-        </dict>
+
         <dict>
             <key>name</key>
             <string>HTML: DOCTYPE</string>
@@ -497,7 +487,18 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#F6624A</string>
+                <string>#6B7790</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>HTML: Tag braces</string>
+            <key>scope</key>
+            <string>punctuation.definition.tag.html, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#75A9A6</string>
             </dict>
         </dict>
         <dict>
