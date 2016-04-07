@@ -1169,7 +1169,18 @@
             <key>name</key>
             <string>JS: {}</string>
             <key>scope</key>
-            <string>meta.brace.curly.js, meta.group.braces.curly.js, punctuation.definition.class.body.begin.js, punctuation.definition.class.body.end.js, punctuation.section.embedded.begin.jsx, punctuation.section.embedded.end.jsx</string>
+            <string>meta.brace.curly.js, meta.brace.curly.begin.js, meta.brace.curly.end.js, meta.group.braces.curly.js, punctuation.definition.class.body.begin.js, punctuation.definition.class.body.end.js, punctuation.section.embedded.begin.jsx, punctuation.section.embedded.end.jsx</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#A7DBD8</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JSX: Tag Brackets</string>
+            <key>scope</key>
+            <string>punctuation.definition.tag.begin.jsx, punctuation.definition.tag.end.jsx</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
