@@ -1136,7 +1136,7 @@
             <key>name</key>
             <string>JS: []</string>
             <key>scope</key>
-            <string>meta.brace.square.js</string>
+            <string>meta.brace.square.js, meta.group.braces.square.js, meta.brace.square.begin.js, meta.brace.square.end.js</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
