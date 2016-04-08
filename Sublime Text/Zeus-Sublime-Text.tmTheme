@@ -927,11 +927,11 @@
             <key>name</key>
             <string>JS: Console Functions</string>
             <key>scope</key>
-            <string>support.function.firebug.js</string>
+            <string>support.function.firebug.js, support.type.object.console.js</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#BDC3C7</string>
+                <string>#F6624A</string>
             </dict>
         </dict>
         <dict>
