@@ -966,6 +966,7 @@
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="a7b3c2" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
