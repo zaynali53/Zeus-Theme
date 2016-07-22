@@ -338,7 +338,7 @@
                 <string>#F6624A</string>
             </dict>
         </dict>
-                <dict>
+        <dict>
             <key>name</key>
             <string>PHP: Catch Defination</string>
             <key>scope</key>
@@ -347,6 +347,17 @@
             <dict>
                 <key>foreground</key>
                 <string>#A7DBD8</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>PHP: String Interpolation Punctuation</string>
+            <key>scope</key>
+            <string>punctuation.definition.expression.php</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#F6624A</string>
             </dict>
         </dict>
         <dict>
