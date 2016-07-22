@@ -327,6 +327,17 @@
                 <string>#F6624A</string>
             </dict>
         </dict>
+                <dict>
+            <key>name</key>
+            <string>PHP: Catch Defination</string>
+            <key>scope</key>
+            <string>meta.catch.php</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#75A9A6</string>
+            </dict>
+        </dict>
         <dict>
             <key>name</key>
             <string>PHP: Comment</string>
