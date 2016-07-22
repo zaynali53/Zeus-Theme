@@ -202,6 +202,39 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>Punctuation (paranthesis)</string>
+            <key>scope</key>
+            <string>punctuation.definition.group, punctuation.definition.group.begin, punctuation.definition.group.end, punctuation.section.function, punctuation.definition.parameters.begin, punctuation.definition.parameters.end, punctuation.definition.parameters, meta.brace.round.begin, meta.brace.round.end, meta.brace.round, punctuation.definition.arguments.begin, punctuation.definition.arguments.end, punctuation.definition.arguments, meta.group.braces.round.function.arguments</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#A7DBD8</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Punctuation {curly}</string>
+            <key>scope</key>
+            <string>punctuation.definition.dictionary.begin, punctuation.definition.dictionary.end, punctuation.definition.dictionary, punctuation.definition.class.body.begin, punctuation.definition.class.body.end, punctuation.definition.class.body, meta.brace.curly.begin, meta.brace.curly.end, meta.brace.curly, punctuation.definition.block, punctuation.section.scope</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#A7DBD8</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Punctuation [square]</string>
+            <key>scope</key>
+            <string>punctuation.definition.array.begin, punctuation.definition.array.end, punctuation.definition.array, meta.group.braces.square, meta.brace.square.begin, meta.brace.square.end, meta.brace.square, punctuation.section.array.begin, punctuation.section.array.end, punctuation.section.array</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#A7DBD8</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>Classes</string>
             <key>scope</key>
             <string>support.class, entity.name.class, entity.name.type.class</string>
