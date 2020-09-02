@@ -13,26 +13,18 @@ Dark UI Theme by [@zaynali53](https://twitter.com/zaynali53)
 
 #### <a href="https://github.com/zaynali53/MyTerminal" target="_blank">XFCE Terminal and Konsole</a>
 
-<br>
 #### Slack.com
-`#2E3336,#161A1F,#BDC3C7,#2E3336,#161A1F,#F8F8F2,#F6624A,#F3AC9A`
 
-<br>
+`#2E3336,#161A1F,#BDC3C7,#2E3336,#161A1F,#F8F8F2,#F6624A,#F3AC9A`
 
 #### Sublime Text Variations
 ![Sublime-Variations](Zeus-Sublime-Variations.png)
 
-<hr>
-
 #### CudaText View
 ![cudatext](https://cloud.githubusercontent.com/assets/8646770/13918957/5ab08d22-ef8c-11e5-8844-79627351a01a.PNG)
 
-<hr>
-
 #### Eclipse IDE View
 ![eclipse_java](https://cloud.githubusercontent.com/assets/8646770/6651745/cc8b000a-ca74-11e4-8415-b0e98ba3beb7.png)
-
-<br>
 
 #### HTML View
 ![html](https://cloud.githubusercontent.com/assets/8646770/6347012/4cfe534c-bc36-11e4-8bb9-d784a3f22585.png)
@@ -55,7 +47,7 @@ Dark UI Theme by [@zaynali53](https://twitter.com/zaynali53)
 #### JSON View
 ![json](https://cloud.githubusercontent.com/assets/8646770/6347111/28e787fc-bc37-11e4-9a44-b2d277d89e4b.PNG)
 
-#License
+# License
 
 Copyright © 2015 Zayn Ali ([@zaynali53](https://twitter.com/zaynali53))
 
